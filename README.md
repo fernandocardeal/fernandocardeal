@@ -2,8 +2,7 @@
 
 - 🤝 Salve! Meu nome é Luis Fernando Santos Cardeal
 - 👀 Meu objetivo atual é me tornar um desenvolvedor back-end
-- 🤓 Atualmente sou aluno do curso de T.I. do IFF Campus Campos Centro
-- 🎓 Sou bolsista ICJ (Iniciação Científica Júnior) de Programação
+- 🤓 Atualmente sou aluno do Bacharelado em Sistemas de Informação do IFF Campus Campos Centro
 - 💻 Faço alguns projetinhos no meu tempo livre
 - 🐍 A linguagem que mais me interessa no momento é o Python
 -  ☕ Mas também, tenho uma quedinha pelo Java rsrs
